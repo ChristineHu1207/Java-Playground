@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortintLong/ByteShortintLong.iml" filepath="$PROJECT_DIR$/ByteShortintLong/ByteShortintLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatingChallenge/FloatingChallenge.iml" filepath="$PROJECT_DIR$/FloatingChallenge/FloatingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/HelloWord/HelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElseChallenge/IfElseChallenge.iml" filepath="$PROJECT_DIR$/IfElseChallenge/IfElseChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElseStatement/IfElseStatement.iml" filepath="$PROJECT_DIR$/IfElseStatement/IfElseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsLeapYear/IsLeapYear.iml" filepath="$PROJECT_DIR$/IsLeapYear/IsLeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Playground.iml" filepath="$PROJECT_DIR$/.idea/Java-Playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordAndExpression/KeywordAndExpression.iml" filepath="$PROJECT_DIR$/KeywordAndExpression/KeywordAndExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaBytes Converter/MegaBytes Converter.iml" filepath="$PROJECT_DIR$/MegaBytes Converter/MegaBytes Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodChanllege/MethodChanllege.iml" filepath="$PROJECT_DIR$/MethodChanllege/MethodChanllege.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoreMethods/MoreMethods.iml" filepath="$PROJECT_DIR$/MoreMethods/MoreMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" filepath="$PROJECT_DIR$/OperatorChallenge/OperatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Types Challenge/Primitive Types Challenge.iml" filepath="$PROJECT_DIR$/Primitive Types Challenge/Primitive Types Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhitespaceIndentation/StatementsWhitespaceIndentation.iml" filepath="$PROJECT_DIR$/StatementsWhitespaceIndentation/StatementsWhitespaceIndentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum3And5/Sum3And5.iml" filepath="$PROJECT_DIR$/Sum3And5/Sum3And5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOdd/SumOdd.iml" filepath="$PROJECT_DIR$/SumOdd/SumOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" />
+    </modules>
+  </component>
+</project>
